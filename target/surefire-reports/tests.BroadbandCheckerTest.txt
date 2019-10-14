@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: tests.BroadbandCheckerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.913 s - in tests.BroadbandCheckerTest
+bcSearchResultsPageForValidPost  Time elapsed: 11.762 s
+searchByPostcode  Time elapsed: 11.902 s
