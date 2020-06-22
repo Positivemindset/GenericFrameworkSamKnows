@@ -30,6 +30,7 @@
 			<artifactId>junit-platform-launcher</artifactId>
 			<version>1.5.2</version>
 		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-engine -->
 		<dependency>
 			<groupId>org.junit.platform</groupId>
